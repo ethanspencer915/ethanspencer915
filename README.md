@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Ethan! 👋
 
-<!--
-**ethanspencer915/ethanspencer915** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Actuarial Science student at Brigham Young University with an interest in statistics, data science, and programming.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Studying Actuarial Science at BYU
+
+📊 Interested in statistics, machine learning, and data analysis
+
+💻 Learning Python, R, SQL, and Git
+
+🔬 Working on statistical research
+
+## Skills
+
+R
+
+Python
+
+SQL
+
+Git and Linux
+
+## Current Goals
+
+I'm working on developing my programming and analytical skills through coursework, research, and personal projects.
